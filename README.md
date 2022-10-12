@@ -1,9 +1,3 @@
-# Demo
-
-# My first Git hub repo.
-# create something now.
-# thanks every one for being so good to me
-
 # WHAT IS DEVOPS?
 # DevOps is a set of practices that combines software development and IT operations. It aims to shorten the systems development life cycle and provide continuous delivery with high software quality.
 
